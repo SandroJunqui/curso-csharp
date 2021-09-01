@@ -8,6 +8,7 @@ namespace CreatRepositGit
         {
             Console.WriteLine("Ola Mundo!");
             Console.WriteLine("Boa noite!");
+            Console.WriteLine("Como você está hoje?");
         }
     }
 }
